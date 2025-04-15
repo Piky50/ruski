@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+	<Item>
+      <parent>province_2</parent>
+      <child>province</child>
+    </Item>
+	<Item>
+      <parent>province_3</parent>
+      <child>province_2</child>
+    </Item>
+	<Item>
+      <parent>province_4</parent>
+      <child>province_3</child>
+    </Item>
+	<Item>
+      <parent>province_5</parent>
+      <child>province_4</child>
+    </Item>
+	<Item>
+      <parent>province_6</parent>
+      <child>province_5</child>
+    </Item>
+	<Item>
+      <parent>province_7</parent>
+      <child>province_6</child>
+    </Item>
+	<Item>
+      <parent>province_8</parent>
+      <child>province_7</child>
+    </Item>
+	<Item>
+      <parent>province_9</parent>
+      <child>province_8</child>
+    </Item>
+	<Item>
+      <parent>province_10</parent>
+      <child>province_9</child>
+    </Item>
+	<Item>
+      <parent>province_11</parent>
+      <child>province_10</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>
